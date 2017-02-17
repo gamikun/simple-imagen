@@ -1,0 +1,33 @@
+{
+  "name": "edesarrollos/simpleimagen",
+  "description": "Cliente para eSms",
+  "homepage": "http://edesarrollos.com/",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gamaliel Espinoza Macedo",
+      "email": "gespinoza@edesarrollos.com"
+    }
+  ],
+  "version": "1.0.0",
+  "require": {
+    
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.8"
+  },
+  "replace": {
+    
+  },
+  "autoload": {
+    "psr-4": {
+      "edesarrollos\\simpleimagen": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
