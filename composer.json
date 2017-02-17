@@ -1,6 +1,6 @@
 {
   "name": "edesarrollos/simpleimagen",
-  "description": "Cliente para eSms",
+  "description": "Operaciones sencillas de imágenes",
   "homepage": "http://edesarrollos.com/",
   "type": "library",
   "license": "MIT",
